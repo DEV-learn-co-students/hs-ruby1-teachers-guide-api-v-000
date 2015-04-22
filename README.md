@@ -18,6 +18,7 @@ Yelp - https://github.com/flatiron-school-curriculum/hs-yelp-api
   + [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
   + [NY Times](http://developer.nytimes.com/)
   + [Flicker](https://www.flickr.com/services/developer/)
+  
 <b>A little more challenging:</b>
   + [Delivery.com](https://developers.delivery.com/) (need to apply for approval)
   + [Facebook](https://developers.facebook.com/)
