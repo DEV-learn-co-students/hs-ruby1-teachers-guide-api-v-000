@@ -1,17 +1,17 @@
 <h1>Unit 9: API</h1>
-Mailgun - https://github.com/flatiron-school-curriculum/hs-mailgun-api/tree/master 
+Mailgun - https://github.com/learn-co-curriculum/hs-mailgun-api/tree/master 
 
-Twilio - https://github.com/flatiron-school-curriculum/hs-twilio-api/tree/master 
+Twilio - https://github.com/learn-co-curriculum/hs-twilio-api/tree/master 
 
-Foursquare - https://github.com/flatiron-school-curriculum/foursquare-wrapper 
+Foursquare - https://github.com/learn-co-curriculum/foursquare-wrapper 
 
-Spotify - https://github.com/flatiron-school-curriculum/hs-spotify-api 
+Spotify - https://github.com/learn-co-curriculum/hs-spotify-api 
 
-Giphy - https://github.com/flatiron-school-curriculum/hs-giphy-api/tree/master 
+Giphy - https://github.com/learn-co-curriculum/hs-giphy-api/tree/master 
 
-Yummly - https://github.com/flatiron-school-curriculum/hs-yummly-api 
+Yummly - https://github.com/learn-co-curriculum/hs-yummly-api 
 
-Yelp - https://github.com/flatiron-school-curriculum/hs-yelp-api 
+Yelp - https://github.com/learn-co-curriculum/hs-yelp-api 
 
 <b>Other APIs that are easy to work with:</b>
   + [Weather Underground](http://www.wunderground.com/weather/api/)
