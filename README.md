@@ -29,3 +29,5 @@ Yelp - https://github.com/learn-co-curriculum/hs-yelp-api
   + [Highcharts](http://api.highcharts.com/highcharts)
 
 
+
+<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-api' data-visibility='hidden'>View this lesson on Learn.co</a>
